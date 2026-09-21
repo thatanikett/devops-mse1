@@ -1,4 +1,4 @@
-# Multi-Environment AWS Infrastructure for E-Commerce
+# Multi-Environment AWS Infrastructure 
 
 This project provisions isolated **Development (`dev`)** and **Production (`prod`)** environments on AWS using a single, reusable Terraform codebase with **Terraform Workspaces**, **environment-specific `.tfvars`**, and **dynamic AWS data blocks**.
 
